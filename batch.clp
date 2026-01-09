@@ -28,7 +28,7 @@
 
     ; COMANDO DE GRAFICADO
     ; t = terminal, * = carácter de dibujo, 150 250 = rango, ?f = variable capturada
-    (plot-fuzzy-value t * 150 250 ?f)
+    (plot-fuzzy-value t * 0 250 ?f)
 
     (printout t "=======================================" crlf)
     (printout t " " crlf)
