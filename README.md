@@ -19,7 +19,7 @@ El sistema utiliza conjuntos difusos trapezoidales y triangulares para calcular 
 * `galletas_bh.clp`: **Base de Hechos**. Define el estado inicial del sistema (índice cromático = 6).
 * `batch.clp`: **Script de Ejecución**. Archivo *batch* que carga el conocimiento, inicializa los hechos, ejecuta el motor de inferencia e imprime los resultados en consola.
 * `image.png`: Gráfica del conjunto difuso resultante de la temperatura.
-
+![Gráfico del valor difuso de temperatura resultante](image.png)
 ## 🚀 Cómo ejecutar
 
 Para correr este proyecto se requiere **FuzzyCLIPS**.
